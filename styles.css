@@ -1,0 +1,13 @@
+/* styles.css */
+
+* {
+    color: red;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large;
+}
+
+li {
+    color: blue;
+    font-size: medium;
+}
